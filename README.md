@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor & Entusiasta de Cibersegurança 🛡️</strong>
+  <strong>Estudante & Entusiasta de Cibersegurança e Desenvolvimento 🛡️</strong>
 </p>
 
 ---
