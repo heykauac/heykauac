@@ -13,7 +13,49 @@
 ### 📝 Sobre Mim
 > "Movido a café, linhas de código e uma boa batida de rap."
 
-Olá! Sou o **Kauã**, um desenvolvedor que navega tanto no ecossistema do desenvolvimento web quanto no universo da **Cibersegurança**. Gosto de entender como as coisas funcionam por baixo dos panos, desde a eletrônica com Arduino até a segurança e estruturação de softwares robustos.
+# Kauã (`@heykauac`)
+
+<p align="center">
+  <img src="https://github.com/heykauac.png" alt="Foto de Perfil de Kauã" width="150px" style="border-radius: 50%;" />
+</p>
+
+---
+
+### 📝 Sobre Mim
+Sou o **Kauã**, estudante do 1º período de tecnologia. Meu objetivo profissional é construir carreira e me especializar na área de **Cibersegurança**. 
+
+Atualmente, estou focado em aprender a base de desenvolvimento de software e lógica de programação. O objetivo é entender como os sistemas são construídos para, futuramente, atuar com análise de vulnerabilidades, pentest e defesa cibernética.
+
+* 🎓 **Status:** Cursando o 1º período.
+* 🧠 **Áreas de estudo atuais:** Programação (Web, Desktop e Embarcados) e fundamentos de redes/segurança.
+* 🎧 **Interesses pessoais:** Games, música (rap/poesia) e café.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas em Estudo
+Linguagens e ferramentas que utilizo no dia a dia da faculdade e em projetos pessoais:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Web Front-End** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Linguagens de Programação** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&byte=c&logoColor=white) |
+| **Hardware & IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
+
+---
+
+### 📈 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heykauac&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heykauac&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150px" />
+</p>
+
+---
+
+### 🤝 Contato Profissional
+* 💼 **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com/in/seu-usuario-aqui) *(substitua pelo seu link real)*
+* 📧 **E-mail:** [seu.email@provedor.com](mailto:seu.email@provedor.com) *(substitua pelo seu e-mail real)*
+
+---
 
 * ☕ **Combustível:** Viciado em música (principalmente rap e poesia) e fã de um bom café para acompanhar os estudos.
 * 🎮 **Hobby:** Nas horas vagas, você certamente vai me encontrar jogando algum game.
