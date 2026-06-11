@@ -78,7 +78,13 @@ Aqui estão as linguagens e tecnologias com as quais trabalho, estudo e desenvol
   <img src="https://github-readme-stats.vercel.app/api?username=heykauac&show_icons=true&theme=radical" alt="Estatísticas do GitHub de heykauac" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heykauac&layout=compact&theme=radical" alt="Linguagens mais usadas por heykauac" height="150px" />
 </p>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heykauac/heykauac/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heykauac/heykauac/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/heykauac/heykauac/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 ---
 
 ### 🤝 Vamos nos conectar?
