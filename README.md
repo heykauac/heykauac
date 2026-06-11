@@ -28,16 +28,6 @@ Atualmente, estou focado em aprender a base de desenvolvimento de software e ló
 
 ---
 
-
-
----
-
-### 📈 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heykauac&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heykauac&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150px" />
-</p>
-
 ---
 
 
