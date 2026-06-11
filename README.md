@@ -45,11 +45,6 @@ Linguagens e ferramentas que utilizo no dia a dia da faculdade e em projetos pes
 
 ---
 
-### 🤝 Contato Profissional
-* 💼 **LinkedIn:** [Acesse meu perfil no LinkedIn](https://linkedin.com/in/seu-usuario-aqui) *(substitua pelo seu link real)*
-* 📧 **E-mail:** [seu.email@provedor.com](mailto:seu.email@provedor.com) *(substitua pelo seu e-mail real)*
-
----
 
 * ☕ **Combustível:** Viciado em música (principalmente rap e poesia) e fã de um bom café para acompanhar os estudos.
 * 🎮 **Hobby:** Nas horas vagas, você certamente vai me encontrar jogando algum game.
