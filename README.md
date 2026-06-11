@@ -75,7 +75,7 @@ Se você quiser trocar uma ideia sobre códigos, segurança da informação, deb
 
 * 💼 **LinkedIn:** [Kauã Cardoso De Melo](https://www.linkedin.com/in/kauãcardoso)
 * 📧 **E-mail Profissional:** [kcm2@cesar.school](mailto:kcm2@cesar.school)
-* 🌐 **Meu Portfólio:** [Veja meu site de portfólio aqui](https://heykauac.github.io/nome-do-seu-repo-de-portfolio)
+* 🌐 **Meu Portfólio:** [Veja meu site de portfólio aqui](https://heykauac.github.io/portfolio-web./)
 
 ---
 <p align="center">Keep coding and stay secure! 🚀</p>
