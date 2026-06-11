@@ -82,7 +82,7 @@ Aqui estão as linguagens e tecnologias com as quais trabalho, estudo e desenvol
 ### 🤝 Vamos nos conectar?
 Se você quiser trocar uma ideia sobre códigos, segurança da informação, debater sobre games ou indicar um rap bom, é só chamar:
 
-* 💼 **LinkedIn:** [Kauã Cardoso De Melo](www.linkedin.com/in/kauãcardoso)
+* 💼 **LinkedIn:** [Kauã Cardoso De Melo](https://www.linkedin.com/in/kauãcardoso)
 * 📧 **E-mail Profissional:** [kcm2@cesar.school](mailto:kcm2@cesar.school)
 * 🌐 **Meu Portfólio:** [Veja meu site de portfólio aqui](https://heykauac.github.io/nome-do-seu-repo-de-portfolio)
 
