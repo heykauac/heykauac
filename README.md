@@ -7,7 +7,9 @@
 <p align="center">
   <strong>Estudante & Entusiasta de Cibersegurança e Desenvolvimento 🛡️</strong>
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/13FrpeVHb9YNvW/giphy.gif" alt="Cyber Security Matrix" width="300px" />
+</p>
 ---
 
 ### 📝 Sobre Mim
