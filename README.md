@@ -13,12 +13,6 @@
 ### 📝 Sobre Mim
 > "Movido a café, linhas de código e uma boa batida de rap."
 
-# Kauã (`@heykauac`)
-
-<p align="center">
-  <img src="https://github.com/heykauac.png" alt="Foto de Perfil de Kauã" width="150px" style="border-radius: 50%;" />
-</p>
-
 ---
 
 ### 📝 Sobre Mim
