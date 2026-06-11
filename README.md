@@ -34,7 +34,7 @@ Aqui estão as linguagens e tecnologias com as quais trabalho, estudo e desenvol
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Web Front-End** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Linguagens de Programação** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
+| **Linguagens de Programação** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 | **Hardware & IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 | **Controle de Versão** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
@@ -51,8 +51,8 @@ Aqui estão as linguagens e tecnologias com as quais trabalho, estudo e desenvol
 ### 🤝 Vamos nos conectar?
 Se você quiser trocar uma ideia sobre códigos, segurança da informação, debater sobre games ou indicar um rap bom, é só chamar:
 
-* 💼 **LinkedIn:** [Seu Nome Completo](https://linkedin.com/in/seu-usuario-aqui)
-* 📧 **E-mail Profissional:** [seu.email@provedor.com](mailto:seu.email@provedor.com)
+* 💼 **LinkedIn:** [Kauã Cardoso De Melo](www.linkedin.com/in/kauãcardoso)
+* 📧 **E-mail Profissional:** [kcm2@cesar.school](mailto:kcm2@cesar.school)
 * 🌐 **Meu Portfólio:** [Veja meu site de portfólio aqui](https://heykauac.github.io/nome-do-seu-repo-de-portfolio)
 
 ---
